@@ -1,13 +1,14 @@
 [project]
-name = "design-develop-and-deploy-multi-agent-systems-with-crewai"
+name = "multi-agent-with-crewai"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "crewai[tools]>=1.9.3",
+    "crewai>=1.9.3",
     "crewai-tools>=1.9.3",
+    "dill>=0.4.1",
+    "exa-py>=2.3.0",
     "patch>=1.16",
     "tools>=1.0.23",
-    "exa-py>=2.3.0",
 ]
