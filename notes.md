@@ -30,3 +30,4 @@ uv pip install -r requirements.txt
 
 
 
+https://serper.dev/logs
