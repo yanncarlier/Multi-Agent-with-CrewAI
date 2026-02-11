@@ -1,6 +1,11 @@
 
 
+https://www.coursera.org/learn/design-develop-and-deploy-multi-agent-systems-with-crewai/lecture/4QpBD/understanding-ai-agent-workflows
 
+
+
+Google Scraper — Best way to scrape search engine results with our easy-to-use and complete API.  
+https://serper.dev/logs
 
 ```
 
@@ -28,6 +33,3 @@ uv pip install -r requirements.txt
 
 ```
 
-
-
-https://serper.dev/logs
