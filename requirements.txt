@@ -160,7 +160,7 @@ tokenizers==0.20.3
 tomli==2.0.2
 tomli-w==1.1.0
 tools==1.0.23
-tornado==6.5.4
+tornado==6.5.5
 tqdm==4.67.3
 traitlets==5.14.3
 typer==0.21.1
