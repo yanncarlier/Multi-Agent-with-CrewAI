@@ -124,7 +124,7 @@ pydantic==2.11.10
 pydantic-core==2.33.2
 pydantic-settings==2.10.1
 pygments==2.19.2
-pyjwt==2.11.0
+pyjwt==2.12.0
 pylance==0.9.18
 pymupdf==1.26.7
 pypdfium2==5.4.0
