@@ -167,7 +167,7 @@ typer==0.21.1
 typing-extensions==4.15.0
 typing-inspection==0.4.2
 urllib3==2.6.3
-uv==0.9.30
+uv==0.11.6
 uvicorn==0.40.0
 uvloop==0.22.1
 virtualenv==20.36.1
