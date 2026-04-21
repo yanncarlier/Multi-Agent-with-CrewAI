@@ -17,7 +17,7 @@ cffi==2.0.0
 cfgv==3.5.0
 charset-normalizer==3.4.4
 chromadb==1.1.1
-click==8.1.8
+click==8.3.2
 comm==0.2.3
 crewai==1.9.3
 crewai-tools==1.9.3
