@@ -175,6 +175,6 @@ watchfiles==1.1.1
 wcwidth==0.6.0
 websocket-client==1.9.0
 websockets==16.0
-yarl==1.22.0
+yarl==1.23.0
 youtube-transcript-api==1.2.4
 zipp==3.23.0
