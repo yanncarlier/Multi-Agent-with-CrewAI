@@ -127,7 +127,7 @@ pygments==2.19.2
 pyjwt==2.11.0
 pylance==0.9.18
 pymupdf==1.26.7
-pypdfium2==5.4.0
+pypdfium2==5.7.1
 pypika==0.51.1
 pyproject-hooks==1.2.0
 python-dateutil==2.9.0.post0
