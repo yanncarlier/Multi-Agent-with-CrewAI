@@ -41,7 +41,7 @@ content_creator_assistant = Agent(
         "a surprising historical twist, and maximize comment section engagement. "
         "All recommendations must be filmable by a solo creator with minimal equipment."
     ),
-    llm="gpt-4o-mini",
+    llm="nvidia/nemotron-3-ultra-550b-a55b",
     verbose=True
 )
 

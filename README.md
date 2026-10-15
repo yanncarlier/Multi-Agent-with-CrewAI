@@ -9,3 +9,11 @@ This are my Lab files and notes
 
 
 
+### Install  
+uv init
+uv venv
+source .venv/bin/activate
+uv add --requirements requirements.txt
+
+
+
